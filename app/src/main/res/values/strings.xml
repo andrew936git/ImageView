@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageView</string>
+    <string name="startButtonText">Начать просмотр</string>
+    <string name="nextButtonText">Следущее фото</string>
+    <string name="exit_menu">Выход</string>
+    <string name="goodbyeText">Спасибо за просмотр! До свидания</string>
+</resources>
